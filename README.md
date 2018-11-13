@@ -14,8 +14,10 @@ The aim of this research is to introduce a novel structural design process that 
 
 
 ### [Codes](https://github.com/sevamoo/Structural_Form_Machine_Learning/tree/master/Codes) 
-
-* **[Main library for form generation](https://github.com/OleOhlbrock/CEM)**
+### Main libraries and Techniques
+* **[CEM - Combinatorial Equilibrium Modelling](https://github.com/OleOhlbrock/CEM)**
+* **[SOMPY: A Python Library for Self Organizing Map (SOM)](https://github.com/sevamoo/SOMPY)**
+* **[UMAP](https://github.com/lmcinnes/umap)**
 
 
 ### [Paper](https://github.com/sevamoo/Structural_Form_Machine_Learning/blob/master/IASS%20paper.pdf)
